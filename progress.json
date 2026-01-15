@@ -59,5 +59,14 @@
       "You have successfully undone the init operation!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1768482919.959536,
+    "completed_at": 1768482981.27698,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
   }
 ]
